@@ -7,4 +7,4 @@ The Project Report pdf contains details on the thorough analysis done and conclu
 
 The Literature Survey pdf outlines notable papers explored to familiarize with existing works.
 
-The word embeddings model required for the analyze function can be downloaded from the following <a href="https://drive.google.com/file/d/1P5hmYzZxqrOpOwpWwyzQEhzdHsDA_97J/view?usp=sharing">link</a>:
+The word embeddings model required for the analyze function can be requested on <a href="https://www.linkedin.com/in/qffdhruba/">LinkedIn</a>, just send me a message.
